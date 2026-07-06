@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I'm Slaughterhouse (aka slhh)
 
-<!--
-**SLHJHHHH/slhjhhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 12 y/o software developer from Kazakhstan.
 
-Here are some ideas to get you started:
+I enjoy building applications, designing modern interfaces and exploring software internals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+- **Livora** — Flutter application
+- **Midnight Hack** — Minecraft client based on EvaWave 1.21.4.
+- **Slaughter Bounce** — LiquidBounce fork.
+- **Slaughterhouse IDE** — Electron-based IDE.
+- **OSINT Framework** — Python toolkit.
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,dart,flutter,cpp,electron,git,github,idea,vscode&theme=dark" />
+</p>
+
+## Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter,java,cpp&theme=dark" />
+</p>
+
+- Reverse Engineering
+- UI/UX Design
+
+---
+
+> *Always learning. Always building.*
