@@ -12,7 +12,7 @@ slhh • software • cheat clients • reverse engineering
 
 ⸻
 
-🩸 ABOUT
+ABOUT
 
 I’m Slaughterhouse (slhh) — a developer focused on cheat clients, HvH software, game modification and reverse engineering.
 
@@ -27,7 +27,7 @@ My main focus is building custom client architectures, game features, visual sys
 
 ⸻
 
-⚔️ SLAUGHTERHOUSE PROJECTS
+SLAUGHTERHOUSE PROJECTS
 
 Project	Platform	Status
 SlaughterWare CS	CS:GO / CS2	ACTIVE
@@ -36,7 +36,7 @@ Slaughterhouse Hack GS	Geometry Dash	ACTIVE
 
 ⸻
 
-🎮 TARGETS
+TARGETS
 
 <div align="center">
 
@@ -53,19 +53,11 @@ Minecraft / Geometry Dash
 
 ⸻
 
-🧬 TECH STACK
+TECH STACK
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,python,dart,git,github,idea,vscode,visualstudio&theme=dark" />
 </div>
-
-Languages
-
-C++        ████████████████████
-Java       █████████████████
-Kotlin     ███████████████
-Python     █████████████
-Dart       ███████
 
 Tools
 
@@ -73,30 +65,24 @@ Visual Studio 2022 • VS Code • IntelliJ IDEA • Git • GitHub
 
 ⸻
 
-🧠 FOCUS
+FOCUS
 
-┌──────────────────────────────────────────────┐
-│                                              │
-│   CHEAT CLIENT DEVELOPMENT                   │
-│   HVH SOFTWARE                               │
-│   REVERSE ENGINEERING                        │
-│   GAME MODIFICATION                           │
-│   LOW-LEVEL PROGRAMMING                      │
-│   UI / UX                                    │
-│                                              │
-└──────────────────────────────────────────────┘
+CHEAT CLIENT DEVELOPMENT                   │
+HVH SOFTWARE                               │
+REVERSE ENGINEERING                        │
+GAME MODIFICATION                           │
+LOW-LEVEL PROGRAMMING                      │
+UI / UX                                    │
 
 ⸻
 
-☠️ CURRENTLY
+CURRENTLY
 
 + Developing SlaughterWare
 + Building custom game clients
 + Exploring game internals
 + Learning low-level programming
 + Working with C++ / Java / Kotlin
-- Flutter
-- Archived projects
 
 ⸻
 
