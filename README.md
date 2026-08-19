@@ -1,53 +1,112 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Slaughterhouse;Software+Developer;12+years+old+from+Kazakhstan" alt="Typing SVG" />
-</p>
+<div align="center">
 
-> *Always learning. Always building.*  
-> *Создаю передовые чит-клиенты и десктопные приложения.*
+SLAUGHTERHOUSE
 
----
+CHEAT CLIENT DEVELOPER
 
-## Status
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=FF3B3B&center=true&vCenter=true&width=600&lines=Cheat+Client+Developer;HvH+Software+Developer;Game+Modification+%26+Reverse+Engineering;CS%3AGO+%7C+CS2+%7C+Minecraft+%7C+Geometry+Dash" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Title-Professional%20Cheat%20Client%20Developer-00ff00?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-HvH-ff0000?style=for-the-badge" alt="HvH">
-  <img src="https://img.shields.io/badge/Age-12-007acc?style=for-the-badge" alt="Age">
-  <img src="https://img.shields.io/badge/Location-Kazakhstan-f5a623?style=for-the-badge" alt="Location">
-</p>
+slhh • software • cheat clients • reverse engineering
 
----
+</div>
 
-## Tech Stack
+⸻
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,idea,vscode&theme=dark" />
-</p>
+🩸 ABOUT
 
-## Currently Learning
+I’m Slaughterhouse (slhh) — a developer focused on cheat clients, HvH software, game modification and reverse engineering.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,flutter&theme=dark" />
-  <img src="https://img.shields.io/badge/Reverse%20Engineering-4B0082?style=for-the-badge" alt="Reverse Engineering">
-  <img src="https://img.shields.io/badge/UI%2FUX%20Design-FF1493?style=for-the-badge" alt="UI/UX Design">
-</p>
+I develop and experiment with software for:
 
----
+* CS:GO
+* CS2
+* Minecraft
+* Geometry Dash
 
-## Major Projects
+My main focus is building custom client architectures, game features, visual systems and modern interfaces.
 
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **Slaughterhouse Hack GS** | High-tier HvH cheat for CS:GO. | C++ | Active |
-| **SlaughterWare CS** | Comprehensive cheat client for CS2. | C++ | Active |
-| **SlaughterWare Minecraft** | Advanced cheat client for Minecraft. | Java | Active |
----
+⸻
 
-## Supported Games & Directions
+⚔️ SLAUGHTERHOUSE PROJECTS
+
+Project	Platform	Status
+SlaughterWare CS	CS:GO / CS2	ACTIVE
+SlaughterWare Minecraft	Minecraft	ACTIVE
+Slaughterhouse Hack GS	Geometry Dash	ACTIVE
+
+⸻
+
+🎮 TARGETS
 
 <div align="center">
-  <img src="image_2.png" width="120" alt="CS:GO">
-  <img src="image_3.png" width="120" alt="CS2">
-  <img src="image_4.png" width="120" alt="Minecraft">
-  <img src="image_5.png" width="120" alt="Geometry Dash">
+
+CS:GO / CS2
+
+<img src="https://img.shields.io/badge/CS%3AGO-HvH-111111?style=for-the-badge&logo=counterstrike&logoColor=white" />
+<img src="https://img.shields.io/badge/CS2-Cheat%20Client-111111?style=for-the-badge&logo=counterstrike&logoColor=white" />
+
+Minecraft / Geometry Dash
+
+<img src="https://img.shields.io/badge/Minecraft-Client-111111?style=for-the-badge&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/Geometry%20Dash-Modding-111111?style=for-the-badge" />
+</div>
+
+⸻
+
+🧬 TECH STACK
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,kotlin,python,dart,git,github,idea,vscode,visualstudio&theme=dark" />
+</div>
+
+Languages
+
+C++        ████████████████████
+Java       █████████████████
+Kotlin     ███████████████
+Python     █████████████
+Dart       ███████
+
+Tools
+
+Visual Studio 2022 • VS Code • IntelliJ IDEA • Git • GitHub
+
+⸻
+
+🧠 FOCUS
+
+┌──────────────────────────────────────────────┐
+│                                              │
+│   CHEAT CLIENT DEVELOPMENT                   │
+│   HVH SOFTWARE                               │
+│   REVERSE ENGINEERING                        │
+│   GAME MODIFICATION                           │
+│   LOW-LEVEL PROGRAMMING                      │
+│   UI / UX                                    │
+│                                              │
+└──────────────────────────────────────────────┘
+
+⸻
+
+☠️ CURRENTLY
+
++ Developing SlaughterWare
++ Building custom game clients
++ Exploring game internals
++ Learning low-level programming
++ Working with C++ / Java / Kotlin
+- Flutter
+- Archived projects
+
+⸻
+
+<div align="center">
+
+SLHH
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=No+skid.+No+paste.+Just+code.;Always+building.;Always+breaking.;Always+learning." />
+<br>
+
+CS:GO • CS2 • MINECRAFT • GD
+
 </div>
