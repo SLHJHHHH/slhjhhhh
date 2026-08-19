@@ -1,8 +1,8 @@
 <div align="center">
 
-SLAUGHTERHOUSE
+Slaughterhouse
 
-CHEAT CLIENT DEVELOPER
+Cheat Client Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=FF3B3B&center=true&vCenter=true&width=600&lines=Cheat+Client+Developer;HvH+Software+Developer;Game+Modification+%26+Reverse+Engineering;CS%3AGO+%7C+CS2+%7C+Minecraft+%7C+Geometry+Dash" />
 
