@@ -69,7 +69,7 @@ An experimental fork of Firefox where I explore the codebase and experiment with
 TECHNOLOGY
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin,dart,git,github,visualstudio,vscode,idea&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,git,github,visualstudio,vscode,idea&theme=dark" />
 </div>
 
 Languages
