@@ -170,6 +170,6 @@ C++ · JAVA · PYTHON
 
 CS:GO · CS2 · MINECRAFT · GEOMETRY DASH
 
-No skid. No paste. Just code.
+No skid. No paste. Just code. Rofl, paste my love govnokod my love
 
 </div>
