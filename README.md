@@ -38,7 +38,7 @@ PROJECTS
 Project	Target	Status
 SlaughterWare	Minecraft 1.21.4	ACTIVE
 SlaughterhouseHack	Geometry Dash 2.2081	ACTIVE
-Firefox Fork	Desktop	EXPERIMENTAL
+SlaughterWare CS:GO Legacy ACTIVE
 
 SlaughterWare
 
@@ -60,9 +60,9 @@ Stack: C++ · Geode · Cocos2d-x
 
 ⸻
 
-Firefox Fork
+SlaughterWare
 
-An experimental fork of Firefox where I explore the codebase and experiment with changes to the browser experience.
+This is a cheat for CS:GO for HvH, my new project.
 
 ⸻
 
@@ -120,6 +120,10 @@ SlaughterhouseHack
     Geometry Dash 2.2081
     C++ / Geode
     Game modification
+SlaughterWare
+    CS:GO Legacy
+    a cheat for hvh
+    Game systems
 PathFinder
     Pathfinding systems
     Movement analysis
