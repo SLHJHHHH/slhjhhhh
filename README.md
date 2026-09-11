@@ -2,7 +2,7 @@
 
 SLAUGHTERHOUSE
 
-Reverse Engineer · Cheat Client Developer · PathFinder · CatBoost Rotations
+Reverse Engineer · Cheat Client Developer · PathFinder · CatBoost Rotations · Neuro Rotations
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=FF3B3B&center=true&vCenter=true&width=650&lines=Reverse+Engineer;Cheat+Client+Developer;PathFinder;CatBoost+Rotations;Game+Modification+%26+Low-Level+Systems" />
 
