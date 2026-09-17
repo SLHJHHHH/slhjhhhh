@@ -15,6 +15,7 @@ Minecraft
 Geometry Dash
 CS:GO
 CS2
+CS 1.6
 Reverse Engineering ♡
 
 <blockquote>
@@ -78,6 +79,12 @@ And then 50,000 lines of code appear.
 <tr>
 <td>🖤 <b>SlaughterWare CS2</b></td>
 <td>Counter-Strike 2</td>
+<td><code>ACTIVE</code></td>
+</tr>
+
+<tr>
+<td>🎀 <b>SlaughterWare CS 1.6</b></td>
+<td>Counter-Strike 1.6</td>
 <td><code>ACTIVE</code></td>
 </tr>
 
@@ -157,6 +164,25 @@ Reverse Engineering
 
 ⸻
 
+<h2>🎀 SlaughterWare CS 1.6</h2>
+
+<p>
+A Counter-Strike 1.6 project focused on game modification,
+client architecture, reverse engineering and experimental systems.
+</p>
+
+Target: Counter-Strike 1.6
+
+Stack:
+
+C++
+ImGui
+WinAPI
+Reverse Engineering
+GoldSrc
+
+⸻
+
 <h2>🐇 technology</h2>
 
 <div align="center">
@@ -174,6 +200,7 @@ Used primarily for:
 <li>reverse engineering</li>
 <li>Cocos2d-x</li>
 <li>Geode</li>
+<li>GoldSrc</li>
 <li>low-level systems</li>
 <li>experimental software</li>
 </ul>
@@ -259,6 +286,18 @@ CS:GO Legacy
 Counter-Strike 2
 ├── C++
 ├── cheat client development
+├── reverse engineering
+├── client architecture
+└── experimental features
+</pre>
+
+<h3>🎀 SlaughterWare CS 1.6</h3>
+
+<pre>
+Counter-Strike 1.6
+├── C++
+├── GoldSrc
+├── game modification
 ├── reverse engineering
 ├── client architecture
 └── experimental features
@@ -352,7 +391,7 @@ Choose your own path. ♡
 
 <h3><code>C++ · JAVA · PYTHON</code></h3>
 
-CS:GO · CS2 · MINECRAFT · GEOMETRY DASH
+CS:GO · CS2 · CS 1.6 · MINECRAFT · GEOMETRY DASH
 
 ₍^. .^₎⟆
 
