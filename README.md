@@ -1,179 +1,289 @@
 <div align="center">
+<img src="./assets/mahiro.png" width="280">
+<h1>♡ SLAUGHTERHOUSE ♡</h1>
+<h3><code>slhh</code> · software · reverse engineering · game modification</h3>
+<img src="https://readme-typing-svg.demolab.com/demolab.svg?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=F48FB1&center=true&vCenter=true&width=700&lines=nya~+reverse+engineering;cute+client+development+%3A3;PathFinder+%3C3;CatBoost+Rotations;game+modification;C%2B%2B+%7C+Java+%7C+Python">
+<br>
 
-SLAUGHTERHOUSE
+♡ C++
+Java
+Python
+Minecraft
+Geometry Dash
+CS:GO
+Reverse Engineering ♡
 
-Reverse Engineer · Cheat Client Developer · PathFinder · CatBoost Rotations · Neuro Rotations
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=FF3B3B&center=true&vCenter=true&width=650&lines=Reverse+Engineer;Cheat+Client+Developer;PathFinder;CatBoost+Rotations;Game+Modification+%26+Low-Level+Systems" />
-
-slhh · software · reverse engineering · game modification
-
+<blockquote>
+૮ ˶ᵔ ᵕ ᵔ˶ ა
+<br><br>
+<b>making complicated things cute since forever</b>
+</blockquote>
 </div>
 
 ⸻
 
-ABOUT
+<h2>♡ about me</h2>
 
-I’m Slaughterhouse (slhh) — a developer focused on cheat client development, reverse engineering, game modification and experimental software.
+Hewwo~ I’m Slaughterhouse (slhh) :3
 
-I build systems around game internals, client architectures, automation, pathfinding and data-driven gameplay.
+I’m a developer interested in reverse engineering, game modification,
+cheat client development, experimental software and low-level systems.
 
-My current areas of interest include:
+I like understanding how things work, breaking them apart,
+and rebuilding them into something unnecessarily complicated.
 
-* Cheat client development
-* Reverse engineering
-* PathFinder systems
-* CatBoost-based rotation systems
-* Game modification
-* Low-level systems
-* Custom interfaces
-* Experimental software
+Sometimes it’s a serious engineering project.
 
-I like building things that are unusual, complicated and probably didn’t need to exist in the first place.
+Sometimes it’s just:
+
+<blockquote>
+<b>"what if I built it myself?"</b>
+</blockquote>
+
+And then 50,000 lines of code appear.
 
 ⸻
 
-PROJECTS
+<h2>🎀 projects</h2>
+<table>
+<tr>
+<th>Project</th>
+<th>Target</th>
+<th>Status</th>
+</tr>
+<tr>
+<td>🌸 <b>SlaughterWare</b></td>
+<td>Minecraft 1.21.4</td>
+<td><code>ACTIVE</code></td>
+</tr>
+<tr>
+<td>🎮 <b>SlaughterhouseHack</b></td>
+<td>Geometry Dash 2.2081</td>
+<td><code>ACTIVE</code></td>
+</tr>
+<tr>
+<td>💚 <b>SlaughterWare CS:GO Legacy</b></td>
+<td>CS:GO Legacy</td>
+<td><code>ACTIVE</code></td>
+</tr>
+</table>
 
-Project	Target	Status
-SlaughterWare	Minecraft 1.21.4	ACTIVE
-SlaughterhouseHack	Geometry Dash 2.2081	ACTIVE
-SlaughterWare CS:GO Legacy ACTIVE
+⸻
 
-SlaughterWare
-
-My main project.
-
-A custom Minecraft client focused on building my own architecture, game systems, visual features, automation and experimental mechanics.
+<h2>🌸 SlaughterWare</h2>
+<p>My main Minecraft project.</p>
+<p>
+A custom client focused on my own architecture,
+game systems, visual features, automation and experimental mechanics.
+</p>
 
 Target: Minecraft 1.21.4
 
+Stack:
+
+Java
+Fabric
+Fabric Loom
+Minecraft
+
 ⸻
 
-SlaughterhouseHack
-
-A custom Geometry Dash project built around game modification and experimentation with the game’s internal systems.
+<h2>🎮 SlaughterhouseHack</h2>
+<p>
+A custom Geometry Dash project built around
+game modification and experimentation with the game's internal systems.
+</p>
 
 Target: Geometry Dash 2.2081
 
-Stack: C++ · Geode · Cocos2d-x
-
-⸻
-
-SlaughterWare
-
-This is a cheat for CS:GO for HvH, my new project.
-
-⸻
-
-TECHNOLOGY
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,git,github,visualstudio,vscode,idea&theme=dark" />
-</div>
-
-Languages
-
-C++ · Java · Python
+Stack:
 
 C++
-
-Used primarily for game modification and lower-level development.
-
-Geode · Cocos2d-x
-
-Java
-
-Used for Minecraft development, data analysis and experimental client systems.
-
-Fabric · Fabric Loom · Mod Coder Pack · CatBoost
-
-Python
-
-Currently expanding my Python stack through interface development and machine learning.
-
-PyQt · PyTorch
+Geode
+Cocos2d-x
 
 ⸻
 
-SPECIALIZATION
+<h2>💚 SlaughterWare CS:GO Legacy</h2>
+<p>
+A CS:GO Legacy project focused on HvH,
+client architecture and experimental game systems.
+</p>
 
-CHEAT CLIENT DEVELOPMENT
+Stack:
+
+C++
+ImGui
+DirectX 9
+MinHook
+
+⸻
+
+<h2>🐇 technology</h2>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,git,github,visualstudio,vscode,idea&theme=light">
+</div>
+<h3>♡ C++</h3>
+
+My main low-level language.
+
+Used primarily for:
+
+<ul>
+<li>game modification</li>
+<li>reverse engineering</li>
+<li>Cocos2d-x</li>
+<li>Geode</li>
+<li>low-level systems</li>
+<li>experimental software</li>
+</ul>
+<h3>♡ Java</h3>
+
+Used for Minecraft development and client-side systems.
+
+Fabric
+Fabric Loom
+Minecraft
+
+<h3>♡ Python</h3>
+
+Currently expanding my Python stack through
+interface development, automation and machine learning.
+
+PyQt
+PyTorch
+
+⸻
+
+<h2>🎀 specialization</h2>
+<div align="center">
+
+♡ CHEAT CLIENT DEVELOPMENT ♡
+
 REVERSE ENGINEERING
+
 PATHFINDER SYSTEMS
+
 CATBOOST ROTATIONS
+
 GAME MODIFICATION
+
 LOW-LEVEL DEVELOPMENT
+
 DATA ANALYSIS
+
 UI / UX
 
-⸻
-
-CURRENTLY WORKING ON
-
-SlaughterWare
-    Minecraft 1.21.4
-    Custom client architecture
-    Game systems
-    Experimental features
-SlaughterhouseHack
-    Geometry Dash 2.2081
-    C++ / Geode
-    Game modification
-SlaughterWare
-    CS:GO Legacy
-    a cheat for hvh
-    Game systems
-PathFinder
-    Pathfinding systems
-    Movement analysis
-    Experimental navigation
-CatBoost Rotations
-    Data analysis
-    Rotation prediction
-    Machine learning experiments
-PyTorch
-    Neural networks
-    Model experimentation
-    Learning and research
+</div>
 
 ⸻
 
-INTERESTS
-
-I enjoy HvH, reverse engineering and creating unusual software.
-
-Most of my projects start with a simple question:
-
-“What if I built it myself?”
-
-Then things usually get unnecessarily complicated.
+<h2>🌷 currently working on</h2>
+<h3>🌸 SlaughterWare</h3>
+<pre>
+Minecraft 1.21.4
+├── custom client architecture
+├── game systems
+├── visual features
+├── automation
+└── experimental mechanics
+</pre>
+<h3>🎮 SlaughterhouseHack</h3>
+<pre>
+Geometry Dash 2.2081
+├── C++
+├── Geode
+├── Cocos2d-x
+└── game modification
+</pre>
+<h3>💚 SlaughterWare CS:GO Legacy</h3>
+<pre>
+CS:GO Legacy
+├── C++
+├── HvH systems
+├── game systems
+└── experimental features
+</pre>
+<h3>🐾 PathFinder</h3>
+<pre>
+├── pathfinding systems
+├── movement analysis
+├── navigation
+└── experimental algorithms
+</pre>
+<h3>🍓 CatBoost Rotations</h3>
+<pre>
+├── data analysis
+├── rotation prediction
+├── machine learning
+└── experimental models
+</pre>
+<h3>🧠 PyTorch</h3>
+<pre>
+├── neural networks
+├── model experimentation
+└── learning & research
+</pre>
 
 ⸻
 
-PHILOSOPHY
+<h2>♡ interests</h2>
 
-I don’t like following a predefined path.
+I enjoy:
 
-I prefer to understand how something works, break it apart, rebuild it and see where it can go.
+reverse engineering
+game modification
+HvH
+pathfinding
+machine learning
+custom interfaces
+low-level programming
 
-Choose your own path.
+making questionable software decisions at 3 AM
+
+Most of my projects start with one tiny thought:
+
+<blockquote>
+<b>"what if I built it myself?"</b>
+</blockquote>
+
+Then everything gets unnecessarily complicated.
+
+⸻
+
+<h2>🎀 philosophy</h2>
+<div align="center">
+<h3>I don't follow predefined paths.</h3>
+
+I like to understand how something works.
+
+<br>
+
+Then I break it.
+
+<br>
+
+Then I rebuild it.
+
+<br>
+
+Then I make the UI pink.
+
+Choose your own path. ♡
+
+</div>
 
 ⸻
 
 <div align="center">
-
-SLHH
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3200&pause=1000&color=888888&center=true&vCenter=true&width=520&lines=Always+building.;Always+breaking.;Always+learning.;Choose+your+own+path." />
+<img src="https://readme-typing-svg.demolab.com/demolab.svg?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=F48FB1&center=true&vCenter=true&width=600&lines=always+building+%3A3;always+breaking+%3A3;always+learning+%3C3;nya~;choose+your+own+path+%E2%99%A1">
 <br>
-
-C++ · JAVA · PYTHON
-
-<br>
+<h3><code>C++ · JAVA · PYTHON</code></h3>
 
 CS:GO · CS2 · MINECRAFT · GEOMETRY DASH
 
-govnokod my love
+govnokod my love ♡
+
+₍^. .^₎⟆
 
 </div>
