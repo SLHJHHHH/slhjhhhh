@@ -83,7 +83,7 @@ And then 50,000 lines of code appear.
 </tr>
 
 <tr>
-<td>🎀 <b>SlaughterWare CS 1.6</b></td>
+<td>🎀 <b>PasteWare CS 1.6</b></td>
 <td>Counter-Strike 1.6</td>
 <td><code>ACTIVE</code></td>
 </tr>
@@ -164,7 +164,7 @@ Reverse Engineering
 
 ⸻
 
-<h2>🎀 SlaughterWare CS 1.6</h2>
+<h2>🎀 PasteWare CS 1.6</h2>
 
 <p>
 A Counter-Strike 1.6 project focused on game modification,
@@ -291,7 +291,7 @@ Counter-Strike 2
 └── experimental features
 </pre>
 
-<h3>🎀 SlaughterWare CS 1.6</h3>
+<h3>🎀 PasteWare CS 1.6</h3>
 
 <pre>
 Counter-Strike 1.6
