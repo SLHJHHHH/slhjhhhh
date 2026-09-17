@@ -85,7 +85,7 @@ And then 50,000 lines of code appear.
 <tr>
 <td>🎀 <b>PasteWare CS 1.6</b></td>
 <td>Counter-Strike 1.6</td>
-<td><code>ACTIVE</code></td>
+<td><code>OPEN SOURCE</code></td>
 </tr>
 
 </table>
@@ -167,11 +167,19 @@ Reverse Engineering
 <h2>🎀 PasteWare CS 1.6</h2>
 
 <p>
-A Counter-Strike 1.6 project focused on game modification,
+An <b>open-source</b> Counter-Strike 1.6 project developed collaboratively
+with other developers and focused on game modification,
 client architecture, reverse engineering and experimental systems.
 </p>
 
+<p>
+The source code is publicly available, allowing others to inspect,
+learn from, modify and contribute to the project.
+</p>
+
 Target: Counter-Strike 1.6
+
+Status: <code>OPEN SOURCE</code>
 
 Stack:
 
@@ -300,7 +308,8 @@ Counter-Strike 1.6
 ├── game modification
 ├── reverse engineering
 ├── client architecture
-└── experimental features
+├── experimental features
+└── OPEN SOURCE ♡
 </pre>
 
 <h3>🐾 PathFinder</h3>
