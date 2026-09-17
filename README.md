@@ -348,8 +348,6 @@ Choose your own path. ♡
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/demolab.svg?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=F48FB1&center=true&vCenter=true&width=600&lines=always+building+%3A3;always+breaking+%3A3;always+learning+%3C3;nya~;choose+your+own+path+%E2%99%A1">
-
 <br>
 
 <h3><code>C++ · JAVA · PYTHON</code></h3>
