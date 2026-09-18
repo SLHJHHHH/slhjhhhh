@@ -4,7 +4,7 @@
 <h1>♡ SLAUGHTERHOUSE ♡</h1>
 <h3><code>slhh</code> · software · reverse engineering · game modification</h3>
 
-<img src="https://readme-typing-svg.demolab.com/demolab.svg?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=F48FB1&center=true&vCenter=true&width=700&lines=nya~+reverse+engineering;cute+client+development+%3A3;PathFinder+%3C3;CatBoost+Rotations;game+modification;C%2B%2B+%7C+Java+%7C+Python">
+<img src="https://readme-typing-svg.demolab.com/demolab.svg?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=F48FB1&center=true&vCenter=true&width=700&lines=nya~+reverse+engineering;cute+client+development+%3A3;PathFinder+%3C3;CatBoost+Rotations;game+modification;FNF+Bot+%7C+SlaughterBot;C%2B%2B+%7C+Java+%7C+Python">
 
 <br>
 
@@ -13,6 +13,7 @@ Java
 Python
 Minecraft
 Geometry Dash
+Friday Night Funkin'
 CS:GO
 CS2
 CS 1.6
@@ -71,6 +72,12 @@ And then 50,000 lines of code appear.
 </tr>
 
 <tr>
+<td>🤖 <b>SlaughterBot</b></td>
+<td>Friday Night Funkin'</td>
+<td><code>OPEN SOURCE</code></td>
+</tr>
+
+<tr>
 <td>💚 <b>SlaughterWare CS:GO Legacy</b></td>
 <td>CS:GO Legacy</td>
 <td><code>ACTIVE</code></td>
@@ -126,6 +133,33 @@ Stack:
 C++
 Geode
 Cocos2d-x
+
+⸻
+
+<h2>🤖 SlaughterBot</h2>
+
+<p>
+An <b>open-source Friday Night Funkin' bot</b> focused on
+automatic gameplay, note detection, timing analysis and experimental
+gameplay automation.
+</p>
+
+<p>
+The project is publicly available for anyone to inspect,
+experiment with, modify and contribute to.
+</p>
+
+Target: Friday Night Funkin'
+
+Status: <code>OPEN SOURCE</code>
+
+Stack:
+
+Haxe
+Funkin' V-Slice
+Flixel
+Game Modding
+Automation
 
 ⸻
 
@@ -194,7 +228,7 @@ GoldSrc
 <h2>🐇 technology</h2>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,git,github,visualstudio,vscode,idea&theme=light">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,haxe,git,github,visualstudio,vscode,idea&theme=light">
 </div>
 
 <h3>♡ C++</h3>
@@ -221,6 +255,15 @@ Fabric
 Fabric Loom
 Minecraft
 
+<h3>♡ Haxe</h3>
+
+Used for Friday Night Funkin' development,
+game modding and SlaughterBot.
+
+Funkin' V-Slice
+HaxeFlixel
+Game Modding
+
 <h3>♡ Python</h3>
 
 Currently expanding my Python stack through
@@ -244,6 +287,8 @@ PATHFINDER SYSTEMS
 CATBOOST ROTATIONS
 
 GAME MODIFICATION
+
+GAMEPLAY AUTOMATION
 
 LOW-LEVEL DEVELOPMENT
 
@@ -276,6 +321,18 @@ Geometry Dash 2.2081
 ├── Geode
 ├── Cocos2d-x
 └── game modification
+</pre>
+
+<h3>🤖 SlaughterBot</h3>
+
+<pre>
+Friday Night Funkin'
+├── Haxe
+├── Funkin' V-Slice
+├── note detection
+├── timing analysis
+├── gameplay automation
+└── OPEN SOURCE ♡
 </pre>
 
 <h3>💚 SlaughterWare CS:GO Legacy</h3>
@@ -351,6 +408,7 @@ I enjoy:
 reverse engineering
 game modification
 HvH
+gameplay automation
 pathfinding
 machine learning
 custom interfaces
@@ -398,9 +456,9 @@ Choose your own path. ♡
 
 <br>
 
-<h3><code>C++ · JAVA · PYTHON</code></h3>
+<h3><code>C++ · JAVA · HAXE · PYTHON</code></h3>
 
-CS:GO · CS2 · CS 1.6 · MINECRAFT · GEOMETRY DASH
+CS:GO · CS2 · CS 1.6 · MINECRAFT · GEOMETRY DASH · FNF
 
 ₍^. .^₎⟆
 
