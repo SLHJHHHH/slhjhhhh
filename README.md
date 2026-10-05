@@ -61,7 +61,7 @@ And then 50,000 lines of code appear.
 
 <tr>
 <td>🌸 <b>SlaughterWare</b></td>
-<td>Minecraft 1.21.4</td>
+<td>Minecraft 26.3 </td>
 <td><code>ACTIVE</code></td>
 </tr>
 
@@ -108,7 +108,7 @@ A custom client focused on my own architecture,
 game systems, visual features, automation and experimental mechanics.
 </p>
 
-Target: Minecraft 1.21.4
+Target: Minecraft 26.3
 
 Stack:
 
@@ -305,7 +305,7 @@ UI / UX
 <h3>🌸 SlaughterWare</h3>
 
 <pre>
-Minecraft 1.21.4
+Minecraft 26.3
 ├── custom client architecture
 ├── game systems
 ├── visual features
